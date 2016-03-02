@@ -1,4 +1,4 @@
-# Bomber
+# Bomberman
 
 ## Materials needed to run game
 
